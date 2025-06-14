@@ -12,7 +12,7 @@ Software engineer passionate about building scalable systems and sharing knowled
 **Languages:** Java, Python, SQL  
 **Platforms:** Google Cloud, Kubernetes, Docker  
 **Data:** Apache Kafka, Airflow, PySpark, BigQuery  
-**Tools:** Terraform, Spring Boot, Helm
+**Tools:** Terraform, Spring Boot, Helm, ArgoCD
 
 📍 Utrecht, Netherlands  
 📧 shibicr93@gmail.com
